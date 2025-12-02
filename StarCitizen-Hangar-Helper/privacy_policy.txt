@@ -1,0 +1,90 @@
+================================================================================
+PRIVACY POLICY
+StarCitizen Hangar Helper Browser Extension
+================================================================================
+
+Last Updated: 01.12.2025
+
+--------------------------------------------------------------------
+1. OVERVIEW
+--------------------------------------------------------------------
+StarCitizen Hangar Helper is a browser extension designed to enhance the user 
+experience on the Roberts Space Industries (RSI) website. This privacy policy 
+explains how we handle user data.
+
+--------------------------------------------------------------------
+2. DATA COLLECTION AND STORAGE
+--------------------------------------------------------------------
+**We do NOT collect, store, or transmit any personal user data to external 
+servers.** The extension operates entirely locally within your browser.
+
+>> KEY POINT: All data processing happens locally on your device. No 
+   information is sent to our servers or any third-party servers.
+
+--------------------------------------------------------------------
+3. DATA PROCESSING
+--------------------------------------------------------------------
+The extension processes only the following types of data:
+* Publicly available ship and pledge information displayed on RSI website pages
+  you visit
+* Transaction history from your RSI account pages
+* Page structure and content for functionality purposes
+
+All data processing occurs locally in your browser. No data is sent to external 
+servers.
+
+--------------------------------------------------------------------
+4. USER ACCOUNT INFORMATION
+--------------------------------------------------------------------
+The extension requires access to RSI website pages to:
+* Display your hangar and buyback information
+* Generate export files (CSV/JSON) locally
+* Execute "melt" operations through RSI's official API
+
+!!! IMPORTANT SECURITY INFORMATION:
+When using the melt functionality, your RSI account password is requested 
+temporarily to authenticate with RSI's API. The password is:
+* **NEVER STORED** anywhere in the extension
+* **NEVER LOGGED** to any file
+* **NEVER TRANSMITTED** anywhere except to RSI's official servers during the 
+  API request
+* **IMMEDIATELY DISCARDED** after the API request completes
+
+--------------------------------------------------------------------
+5. PERMISSIONS USAGE
+--------------------------------------------------------------------
+The extension requires the following permissions:
+* **Host permissions for robertsspaceindustries.com:** To access and interact 
+  with RSI website pages
+* **No other permissions are required**
+
+--------------------------------------------------------------------
+6. THIRD-PARTY SERVICES
+--------------------------------------------------------------------
+The extension uses the following libraries and services:
+* jQuery and DataTables libraries for UI functionality
+* Blob.js for file generation
+* All libraries are included locally within the extension
+
+--------------------------------------------------------------------
+7. DATA EXPORT
+--------------------------------------------------------------------
+All exported data (CSV/JSON files) are generated locally and saved only to your 
+device. We have no access to these files.
+
+--------------------------------------------------------------------
+8. CHANGES TO THIS POLICY
+--------------------------------------------------------------------
+We may update this privacy policy. The "Last Updated" date will reflect changes. 
+We recommend reviewing this policy periodically.
+
+--------------------------------------------------------------------
+9. CONTACT INFORMATION
+--------------------------------------------------------------------
+For privacy-related questions or concerns, please contact:
+warfactory@gmail.com
+
+--------------------------------------------------------------------
+**NOTE:** This privacy policy applies only to the StarCitizen Hangar Helper 
+browser extension. It does not apply to the Roberts Space Industries website 
+or any other third-party services.
